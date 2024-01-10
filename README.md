@@ -1,26 +1,5 @@
 # 环境配置
-
-    ubuntu：18.04
-
-    cuda：10.0
-
-    cudnn：7.6.5
-
-    caffe: 1.0
-
-    OpenCV：3.4.2
-
-    Anaconda3：5.2.0
-
-    相关的安装包我已经放到百度云盘，可以从如下链接下载: https://pan.baidu.com/s/17bjiU4H5O36psGrHlFdM7A 密码: br7h
-
-    cuda和cudnn的安装
-
-    可以参考我的另一篇部署文章（TensorRT int8 量化部署 yolov5s 4.0 模型）
-
-    Anaconda安装
-
-    chmod +x Anaconda3-5.2.0-Linux-x86_64.sh（从上面百度云盘链接下载）
+    anaconda安装
 
     ./Anaconda3-5.2.0-Linux-x86_64.sh
 
